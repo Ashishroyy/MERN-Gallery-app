@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MERN-Gallery-app/static/css/main.76031048.css",
+    "main.js": "/MERN-Gallery-app/static/js/main.71fd8c18.js",
+    "index.html": "/MERN-Gallery-app/index.html",
+    "main.76031048.css.map": "/MERN-Gallery-app/static/css/main.76031048.css.map",
+    "main.71fd8c18.js.map": "/MERN-Gallery-app/static/js/main.71fd8c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76031048.css",
+    "static/js/main.71fd8c18.js"
+  ]
+}
