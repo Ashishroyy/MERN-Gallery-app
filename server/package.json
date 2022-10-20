@@ -1,9 +1,12 @@
 {
+  "homepage": "https://Ashishroyy.github.io/MERN-Gallery-app",
   "name": "ashish",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "server": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
